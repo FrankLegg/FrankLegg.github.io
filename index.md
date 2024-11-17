@@ -4,7 +4,7 @@ This is my home page! My name is Frank Legg and I am a student at [Cal State Ful
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/FrankLegg.
+My GitHub page is http://github.com/FrankLegg
 
 ### CPSC 120
 
